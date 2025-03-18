@@ -274,8 +274,6 @@ Take all the content to prove right in the stage 2 and transform them into paid 
 
 # Source References:
 
-reddituser123. (2023, January 15). How to build a profitable SaaS as a solo developer? [Online forum post]. Reddit. https://www.reddit.com/r/Entrepreneur/comments/xxxxxx
-
 - [1] eduardez_. (2025, February 27 ). How brutal honesty from two Redditors completely transformed my SaaS in less than 24 hours. Reddit. https://www.reddit.com/r/SaaS/comments/1izq01z/how_brutal_honesty_from_two_redditors_completely/
 - [2] felixheikka. (2025, March 5). Talking to people before building took me from failed projects to $9,000 in revenue. Reddit.  https://www.reddit.com/r/SaaS/comments/1j43rkv/talking_to_people_before_building_took_me_from/
 - [3] Swimming-Food-748. (2025, March 6). I Asked 10 Founders How They Got Their First Paying Customer, Here’s What They Said. Reddit. https://www.reddit.com/r/SaaS/comments/1j4sebd/i_asked_10_founders_how_they_got_their_first/
