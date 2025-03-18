@@ -1,13 +1,13 @@
-Main Question: 
+__Main Question:__ 
 How can I efficiently source product ideas, validate and develop a SaaS offering, and expand my customer base to achieve profitability as a solo developer?
 
-Reserach Questions: 
+__Reserach Questions:__ 
 - How to create a profitable Software as a Service product as a solo developer?
 - How to know if my SaaS idea is worth my efforts a a solo developer?
 - How to efficiently  build, test and get product ideas when trying to reach a profitable SaaS product as a solo developer?
 - How can i grow my customers portfolio as a solo developer
 
-Motivation:
+__Motivation:__
 I've seen posts on subreddits where developers share how difficult it was to acquire even one customer for their SaaS products. In the worst cases, it took them 1-2 years. In my opinion, that's inefficient and makes it hard to stay motivated—especially since even after all that time, profitability isn’t guaranteed.
 
 I want a reliable, step-by-step process with clear timelines to quickly determine whether a SaaS product has the potential to be profitable.
