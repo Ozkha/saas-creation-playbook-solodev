@@ -274,25 +274,27 @@ Take all the content to prove right in the stage 2 and transform them into paid 
 
 # Source References:
 
-- [1] https://www.reddit.com/r/SaaS/comments/1izq01z/how_brutal_honesty_from_two_redditors_completely/
-- [2] https://www.reddit.com/r/SaaS/comments/1j43rkv/talking_to_people_before_building_took_me_from/
-- [3] https://www.reddit.com/r/SaaS/comments/1j4sebd/i_asked_10_founders_how_they_got_their_first/
-- [4] https://www.reddit.com/r/SaaS/comments/1j5dm2h/how_i_got_my_first_100_customers_for_my_saas/
-- [5] https://www.reddit.com/r/SaaS/comments/1j2kr3a/my_mvp_is_cool_but_my_target_audience_isnt/
-- [7] https://www.reddit.com/r/SaaS/comments/1j465cx/ive_built_multiple_mvps_for_saas_startups_heres/
-- [8] https://www.reddit.com/r/microsaas/comments/1j5hrrf/ive_spent_40k_bootstrapping_my_saas_heres_what_i/
-- [9] https://www.reddit.com/r/SaaS/comments/1iwx9hm/i_sold_my_first_saas_for_50000/
-- [10] https://www.reddit.com/r/SaaS/comments/1j5mjs3/this_is_my_4th_pivothoping_for_the_best/
-- [11] https://www.reddit.com/r/SaaS/comments/1j6gpcu/how_i_got_my_first_900_beta_users_for_my_website/
-- [13] https://www.reddit.com/r/SaaS/comments/1j5zafm/this_completely_changed_the_way_i_acquired_clients/
-- [14] https://www.reddit.com/r/SaaS/comments/1j6bn95/talk_to_potential_users_before_you_build_how_did/
-- [15] https://www.reddit.com/r/SaaS/comments/1j6xbrj/everyone_says_to_talk_to_users_but_no_one_responds/
-- [16] https://www.reddit.com/r/microsaas/s/AlnQuuG0q8
-- [17] https://www.reddit.com/r/ycombinator/comments/1j4basa/yc_founders_how_did_you_get_your_first_real_users/
-- [18] [How I Code Profitable Apps SOLO (no wasted time / beginner friendly / with AI)](https://www.youtube.com/watch?v=CNsvts6pVzo)
-- [19] [How To Launch A SaaS From Scratch (4 Essential Steps)](https://www.youtube.com/watch?v=1SCqveOv--c)
-- [20] [I built a startup in 31 hours (SaaS)](https://www.youtube.com/watch?v=1CDBbEVBtBU)
-- [21] [5 Lessons I Learned Building A $400/month Micro-SaaS Side Hustle](https://www.youtube.com/watch?v=QBajJCMxByw)
-- [22] [My SaaS User Growth System: Get Your First 100 - 1,000+ Users](https://www.youtube.com/watch?v=6P_H9eDNBcA)
-- [23] https://www.reddit.com/r/microsaas/comments/1jbnpef/i_reached_10k_revenue_in_6_months_thanks_to_this/
-- [24] https://www.reddit.com/r/SaaS/comments/1jbzlb3/got_5_beta_users_for_my_saas_now_what/
+reddituser123. (2023, January 15). How to build a profitable SaaS as a solo developer? [Online forum post]. Reddit. https://www.reddit.com/r/Entrepreneur/comments/xxxxxx
+
+- [1] eduardez_. (2025, February 27 ). How brutal honesty from two Redditors completely transformed my SaaS in less than 24 hours. Reddit. https://www.reddit.com/r/SaaS/comments/1izq01z/how_brutal_honesty_from_two_redditors_completely/
+- [2] felixheikka. (2025, March 5). Talking to people before building took me from failed projects to $9,000 in revenue. Reddit.  https://www.reddit.com/r/SaaS/comments/1j43rkv/talking_to_people_before_building_took_me_from/
+- [3] Swimming-Food-748. (2025, March 6). I Asked 10 Founders How They Got Their First Paying Customer, Here’s What They Said. Reddit. https://www.reddit.com/r/SaaS/comments/1j4sebd/i_asked_10_founders_how_they_got_their_first/
+- [4] FI_investor. (2025, March 6). How I Got My First 100 Customers For My SaaS Startup (with strategies you can implement today). Reddit.  https://www.reddit.com/r/SaaS/comments/1j5dm2h/how_i_got_my_first_100_customers_for_my_saas/
+- [5] Wwwwwwwwat. (2025, March 3). My MVP is cool, but my target audience isn’t responding… Bad sign?.Reddit. https://www.reddit.com/r/SaaS/comments/1j2kr3a/my_mvp_is_cool_but_my_target_audience_isnt/
+- [7] Swimming-Food-748. (2025, March 5). I’ve built multiple MVPs for SaaS startups, here’s what I learned (and screwed up) along the way. Reddit. https://www.reddit.com/r/SaaS/comments/1j465cx/ive_built_multiple_mvps_for_saas_startups_heres/
+- [8] tanayl27. (2025, March 6). I've spent $40k bootstrapping my SaaS. Here's what I wish I knew from day one. Reddit. https://www.reddit.com/r/microsaas/comments/1j5hrrf/ive_spent_40k_bootstrapping_my_saas_heres_what_i/
+- [9] FlorinPop17. (2025, February 23). I sold my first SaaS for $50,000. Reddit. https://www.reddit.com/r/SaaS/comments/1iwx9hm/i_sold_my_first_saas_for_50000/
+- [10] RohanSinghvi1238942. (2025, March 7). This is my 4th pivot…hoping for the best. Reddit. https://www.reddit.com/r/SaaS/comments/1j5mjs3/this_is_my_4th_pivothoping_for_the_best/
+- [11] Bubbly_Lack6366. (2025, March 8). How I got my first 900+ beta users for my website. Reddit. https://www.reddit.com/r/SaaS/comments/1j6gpcu/how_i_got_my_first_900_beta_users_for_my_website/
+- [13] Hashirkhurram1. (2025, March 7).  This Completely Changed the Way I Acquired Clients. Reddit. https://www.reddit.com/r/SaaS/comments/1j5zafm/this_completely_changed_the_way_i_acquired_clients/
+- [14] ForgotMyAcc. (2025, March 7). Talk to potential users before you build’ - how did you go about doing that?. Reddit. https://www.reddit.com/r/SaaS/comments/1j6bn95/talk_to_potential_users_before_you_build_how_did/
+- [15] Evalo01. (2025, March 8). Everyone says to talk to users, but no one responds. Reddit. https://www.reddit.com/r/SaaS/comments/1j6xbrj/everyone_says_to_talk_to_users_but_no_one_responds/
+- [16] jayscript12. (2025, March 7). From 0 to $1,000 MRR: A step by step guide I wish I had when I started. Reddit. https://www.reddit.com/r/microsaas/s/AlnQuuG0q8
+- [17] ManagerCompetitive77. (2025, March 5). YC Founders, How Did You Get Your First REAL Users?. Reddit. https://www.reddit.com/r/ycombinator/comments/1j4basa/yc_founders_how_did_you_get_your_first_real_users/
+- [18] Edmund Yong. (2024, December 27). How I Code Profitable Apps SOLO (no wasted time / beginner friendly / with AI). YouTube. https://www.youtube.com/watch?v=CNsvts6pVzo
+- [19] Simon Hoiberg. (2023, July 28). How To Launch A SaaS From Scratch (4 Essential Steps). YouTube. https://www.youtube.com/watch?v=1SCqveOv--c
+- [20] Marc Lou. (2024, March 12). I built a startup in 31 hours (SaaS). YouTube. https://www.youtube.com/watch?v=1CDBbEVBtBU
+- [21] Your Average Tech Bro. (2024, April 30). 5 Lessons I Learned Building A $400/month Micro-SaaS Side Hustle. YouTube. https://www.youtube.com/watch?v=QBajJCMxByw
+- [22] Simon Hoiberg. (2023, November 20). My SaaS User Growth System: Get Your First 100 - 1,000+ Users. YouTube. https://www.youtube.com/watch?v=6P_H9eDNBcA
+- [23] davidheikka. (2025, March 15). I reached $10k+ revenue in 6 months thanks to this playbook. Reddit. https://www.reddit.com/r/microsaas/comments/1jbnpef/i_reached_10k_revenue_in_6_months_thanks_to_this/
+- [24] Ok_Nobody1410. (2025, November 15). Got 5 Beta Users for My SaaS. Now What?. Reddit. https://www.reddit.com/r/SaaS/comments/1jbzlb3/got_5_beta_users_for_my_saas_now_what/
